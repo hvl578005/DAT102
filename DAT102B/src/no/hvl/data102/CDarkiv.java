@@ -21,6 +21,7 @@ public class CDarkiv implements CDarkivADT {
 		 	}
 		 cdTabell[antall] = nyCd;
 		 antall++;
+		 
 	}
 	
 	
